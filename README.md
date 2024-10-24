@@ -35,4 +35,4 @@ I'm working on making this smoother in the future.
 
 ## Questions or Feedback?
 
-If you run into any issues or have feedback, feel free to open an issue on GitHub, and we’ll be happy to help!
+If you run into any issues or have feedback, feel free to open an issue on GitHub, and I'll be happy to help!
